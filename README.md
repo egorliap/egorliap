@@ -1,4 +1,6 @@
-# Привет! 👋 Меня зовут Егор Ляпустин
+# Привет! 👋 Меня зовут Егор
+
+📄 **[Резюме (PDF)](./cv.pdf)**
 
 **Инженер машинного обучения и Data Scientist с опытом backend-разработки на Python.**
 
@@ -62,7 +64,9 @@
 
 
 
-# Hi there 👋 I'm Egor Liapustin
+# Hi there 👋 I'm Egor
+
+📄 **[CV (PDF)](./cv.pdf)**
 
 **Data Scientist (Python) with a Backend Engineering background.**
 
