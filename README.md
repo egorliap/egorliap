@@ -1,54 +1,53 @@
+# Hi there 👋 I'm Egor Liapustin
 
-# Hi there 👋 I'm Egor Liap
+**Data Scientist (Python) with a Backend Engineering background.**
 
-Backend & C++ Developer passionate about high-performance systems, numerical optimization, and modern software engineering.
+I build machine learning solutions, develop web applications, and design scalable backend services. My experience bridges data science and software engineering, allowing me to take projects from research and prototyping to production.
 
-## About me
+## About Me
 
-I'm a software developer focused on building reliable, efficient, and maintainable applications.
+* 🧠 Data Scientist specializing in Python
+* 🚀 Backend developer experienced with FastAPI and modern API design
+* 📈 Interested in Machine Learning, Optimization, and Data Science
+* ⚡ Passionate about writing efficient, maintainable, and production-ready code
 
-My primary interests include:
+## Expertise
 
-* ⚡ High-performance C++
-* 🚀 Backend development with FastAPI
-* 📊 Numerical optimization
-* 🔬 Algorithms and data structures
-* 🏗 Software architecture
-* 🐧 Linux ecosystem
+### Data Science
 
-I enjoy solving challenging engineering problems where performance, correctness, and clean design matter.
+* Machine Learning
+* Data Analysis & Visualization
+* Statistical Modeling
+* Feature Engineering
+* Model Evaluation
+* Experimentation
 
-## Tech Stack
-
-### Languages
-
-* C++
-* Python
-* SQL
-
-### Backend
+### Backend Engineering
 
 * FastAPI
 * REST APIs
-* Async Python
+* Asynchronous Python
+* Database Design
+* Service Architecture
 
-### Tools
+### Languages & Tools
 
+* Python
+* C++
+* SQL
 * Git
 * Docker
 * Linux
-* CMake
 
-## Current Focus
+## What I'm Working On
 
-* Improving C++ performance and architecture
-* Optimization algorithms
-* Modern backend development
-* Scalable API design
+* Developing machine learning solutions
+* Deploying ML models
+* Applying optimization methods to real-world problems
 
-## Philosophy
+## Engineering Mindset
 
-> Write code that is simple enough to understand and efficient enough to scale.
+I enjoy combining analytical thinking with software engineering practices to build systems that are not only accurate, but also reliable, scalable, and easy to maintain.
 
 ## GitHub Stats
 
@@ -59,4 +58,4 @@ I enjoy solving challenging engineering problems where performance, correctness,
 
 ---
 
-📫 Feel free to explore my repositories or reach out if you'd like to collaborate on backend systems, C++, or optimization projects.
+📫 Feel free to explore my repositories or reach out if you're interested in Machine Learning, Data Science, Python, or Backend Engineering.
